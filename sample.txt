@@ -1,5 +1,3 @@
 my name is Hieu
 Cap nhat them
 a:cap nhat them
-b:cap nhat them lan 2
-aaaaa
