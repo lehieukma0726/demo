@@ -1,2 +1,6 @@
 Hom nay troi nang
+<<<<<<< HEAD
 1221
+=======
+aaaaaaaaaa 1221
+>>>>>>> issue53
